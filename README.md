@@ -14,8 +14,8 @@ The question now is, where to start?
 
 A Learning Path To Becoming a Data Scientist :)
 
-Goal 1: Revise Python Programming Concepts and Trying Random Interesting Projects.
+Step 1: Revise Python Programming Concepts and Trying Random Interesting Projects.
 
-Goal 2: Revise SQL
+Step 2: Revise SQL
 
-Goal 3: Try R Programming
+Step 3: Try R Programming
