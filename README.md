@@ -16,7 +16,7 @@ A Learning Path To Becoming a Data Scientist :)
 
 Step 1: Revise Python Programming Concepts and Trying Random Interesting Projects. Try R Programming as well.
 
-Step 2: Revise SQL
+Step 2: An essential step to standing out as a data scientist is to interact and communicate with databases effectively. If you could design a simple database, then this will take you to the next level. To communicate with a database, you will need to speak its language. That is SQL. So, revise SQL. 
 
 Step 3: Machine Learning/Deep Learning/Graph Machine Learning
 
