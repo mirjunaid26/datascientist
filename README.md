@@ -18,9 +18,7 @@ Step 1: Revise Python Programming Concepts and Trying Random Interesting Project
 
 Step 2: Revise SQL
 
-Step 3: Revise Mathematics for Machine Learning
-
-Step 
+Step 3: Machine Learning/Deep Learning/Graph Machine Learning
 
 ![datascinecroadmap](https://user-images.githubusercontent.com/16865278/176794994-0558eccf-1e2b-40dc-9b78-354f82901cc5.png)
 
