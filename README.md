@@ -1,4 +1,4 @@
-# datascientist
+# Data Scientist
 
 
 As long as you are open to learning new things and willing to put in the effort and time, you can become a Data Scientist.
