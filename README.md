@@ -21,4 +21,5 @@ Step 2: An essential step to standing out as a data scientist is to interact and
 Step 3: Fun Part: Machine Learning/Deep Learning/Graph Machine Learning.
 
 ![datascinecroadmap](https://user-images.githubusercontent.com/16865278/176794994-0558eccf-1e2b-40dc-9b78-354f82901cc5.png)
+Source: https://towardsdatascience.com/a-learning-path-to-becoming-a-data-scientist-56c5c2e8ae3f
 
